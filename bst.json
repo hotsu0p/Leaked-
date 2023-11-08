@@ -1,0 +1,95 @@
+{
+    "guilds": {
+        "1138812160533856257": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1148932847147679765"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1151096223198093424": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1151099479949324298"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1154700827848626216": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> BoostMessage To <<boost.server_name>>",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": [
+                    "1154703632705536012"
+                ]
+            }
+        },
+        "1140228374246215710": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1084904458653278319": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
+        }
+    }
+}

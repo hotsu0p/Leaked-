@@ -1,0 +1,22 @@
+{
+    "1170724853586853909": {
+        "prize": "Hehe",
+        "host": 926831289649201213,
+        "winners": 1,
+        "end_time": 1699192973,
+        "channel_id": 1169553889155108904,
+        "button_id": "general",
+        "link": "https://discord.com/channels/1158408289873301514/1169553889155108904/1170724853586853909",
+        "ended": true
+    },
+    "1170726199086039082": {
+        "prize": "Idk",
+        "host": 1036877996243562516,
+        "winners": 1,
+        "end_time": 1699193295,
+        "channel_id": 1169553889155108904,
+        "button_id": "general",
+        "link": "https://discord.com/channels/1158408289873301514/1169553889155108904/1170726199086039082",
+        "ended": true
+    }
+}

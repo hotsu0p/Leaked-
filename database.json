@@ -1,0 +1,4432 @@
+{
+    "guilds": {
+        "1082578132881645608": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "999984136888528926": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1031166309049843723": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1097149072311324722": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1104468143172235436": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1090614458830815232": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1096339556741169162": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1023603628986093678": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1096737019356528734": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1108208675610427425": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1101475173242241104": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1116343400464121866": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1109448739443179552": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1116587036237901874": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1063463915104776202": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1110628631132246116": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1115904704589865031": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1050406371285291078": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "869017715896111134": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1116914286002974801": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1028913190005907507": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1116448751008100395": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1019983204721098795": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1077595979068481577": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1117587634022260848": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1100270511780548648": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1089264811419901994": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1117833912371138560"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<a:land_beyazayi:1117857042376425512>  Hello <<user.mention>> <a:land_beyazayi:1117857042376425512> \nWelcome to our <<server.name>>\n\n<a:Flantic_bubushocked:1117856723600937021> We are now <<server.member_count>> <a:Flantic_bubushocked:1117856723600937021>",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1114155982445088888": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1097492763941032067": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "963386750900781106": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1108029039274364988": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1124598689042800651"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<a:single:1110628013424529549>  Hello <<user.mention>> <a:single:1110628013424529549> \nWelcome to our <<server.name>>\n\n<a:nyt_cute_panda_dance:1110440658772164649> We are now <<server.member_count>>  members<a:nyt_cute_panda_dance:1110440658772164649>",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1118238964697022537": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1111934590299414539": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1056480393701892137": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1056496274645458955"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1125468030693015659/1125528441677172767/5E8132D9-7E4A-49F9-91B2-539C08BC5DE1.gif",
+                "message": ":Heart: **{user.mention} Welcome to FANCY VIBES™ **\n <:hearts:1057974253493948476> **Check out these channels**<:hearts:1057974253493948476>\n  :dot:[Rules](https://discord.com/channels/1056480393701892137/1056496276046352474) :dot:[Roles](https://discord.com/channels/1056480393701892137/1056496277203992618) :dot:[Colors](https://discord.com/channels/1056480393701892137/1056496278474862602)",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1109118637211668539": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1114932690861441154": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "993867160873095208": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1045009818181705849": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1101471422724972584": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1095000198314475604": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "333949691962195969": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1098373802037084161": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1117025831194202153": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "303095411655311370": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1093709637703962634": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1105873838903926844": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1106126520629592124": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "877276106745593926": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "877837063532191775": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "963384250235764756": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1096807192620978196": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1093986355580768269": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "786889267409453057": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059738604907266058": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "846883824885563442": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059738481993187428": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "999915670349299752": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1031028540331802724": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "903713535782170634": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "949977417177505792": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059713157582565416": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1026134127512129676": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059671410471092264": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1050036720298639410": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1120243450290372678": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1039851870480511058": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1039932485506699364": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1039896503549968428": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1051560070183391285": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1087846699684347986": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059713068168392754": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "984397451844808725": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1112339845344395375": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1067141640759812198": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1039849748036857866": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1102158823705301012": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1095563341700792332": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1097068751289069630": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1009423044063789057": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059738606249463859": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059705014035169280": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1121351778903007234": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1096110471100252181": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1120589155232133242": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1119867094574571591": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1120635906496417863": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1075033730214797402": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1104650434003599390": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1119369135416160257": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1121649751297904720": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1005882198580281445": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1013857318032650300": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1101523239202725969": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<@1112208425988915304> greet test",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1086556813945733201": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "974331692984705035": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1112043274555904082": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1109097757567885362": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1100999194573025300": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1122544400883515454": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1123284815450493050": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1067845408082116668": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1123852398444695683": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "kick 977512459701194852",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1111973276470759454": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "987235625184952320": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1107640507498254357": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1103688538492506194": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1115349498177269771": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "915639081554305085": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1120203152680038452": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1113928498730500176": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1059565369871826944": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1124226470550708344": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1068877315796373524": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1125844414212874240": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1045261820170096721": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1101075855217795072": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1126537442363723908": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127499052641157170": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "728156559842213909": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "992790133399101490": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "981969060554215454": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1051446562171138108": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127166489615667281": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127114640158117920": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "827546608999727162": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "983132734820081694": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "793029744769368084": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1124428204145381417": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1087105762003783791": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1126518553928007690": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "996905109898403960": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1068961437092941835": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "963087482071711745": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130009946168250378": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130008389288734759": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130008449355362326": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130009873875206196": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130010092390060143": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127982260033949757": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1123652464831365181": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "853274104067784745": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1129775447492796538": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1048078449945870386": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130008530745835610": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1117100101526102027": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127499964008902689": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1129777490546671739": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1131674656806535312": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1075478176165273600": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "874049591216046122": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1130111797320491018": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1103591679103082567": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127579199910199377": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1128359239144968313": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1134140117087441086": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "582435622246154260": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1131324756298301440": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1117692073974439936": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1118382830284701789": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1136698944630562898": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1134558980300083342": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1137758438856871936": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1137583020199657592": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1138418369087934556": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1125046317870227537": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1138818346134024254": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1138517713736699934": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1071807677145030857": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1124568373364273163": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1084904458653278319": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1116962147302375444": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1139545420457062443": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1137624387047133285": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1141918736190808084": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1134256055174566042": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1143834278015283250": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1140633229204934697": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1113394921840316506": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1138812160533856257": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1092749835247030363": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1034808374975537203": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1143474407696760886": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1147455856405905530"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1149016977139052625": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1061154310118985768": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1141067216071180288": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1139934097507102722": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1151096223198093424": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1098836612198178887": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1151165338394820708": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1151166228694577243": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1126805369021280286": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1143575104362647563": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1152473069563158548": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1152286925219188817": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1152920798340853810": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1136344175147765971": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1153241130880729112"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1153672791913148429": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1106216568288985109": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1104984401374367845": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1092764717933678622": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1152902140201803877": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1153159223950180422": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1155482177933410345": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1154700827848626216": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": 1154703641001857096
+            }
+        },
+        "1122553244518977657": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1140228374246215710": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<a:Criminals_welcome:1157913208795959367> **Hey <<user.mention>> Welcome to our server** <<server.name>>\n\n₊˚︶︶︶︶ ⋆︶︶︶︶⋆︶︶︶︶ ⋆︶︶︶︶⋆︶︶︶︶ ⋆˚₊ \n\n<a:arrow3:1158809225250746459>  𝐂𝐡𝐚𝐭 𝐈𝐧 :- <#1158355131000168538> \n<a:arrow3:1158809225250746459>  𝐆𝐞𝐭 𝐒𝐞𝐥𝐟 𝐑𝐨𝐥𝐞𝐬 𝐅𝐫𝐨𝐦 :- <#1146337311483760670> \n<a:arrow3:1158809225250746459>  𝐑𝐞𝐚𝐝 𝐑𝐮𝐥𝐞𝐬 𝐅𝐫𝐨𝐦 :- <#1140237996118003772> \n\n\n₊˚︶︶︶︶ ⋆︶︶︶︶⋆︶︶︶︶ ⋆︶︶︶︶⋆︶︶︶︶ ⋆˚₊ \n\n<a:thanks:1157912391976230932> **Thanks for joining because of we are now having <<server.member_count>> members**",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1156964574784921642": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1156965312688824363"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1156265888459272282": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1157028859057815632"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "$greet config",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1155342397069344828": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1158779054351188100": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1138081215560302622": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1127636397377994943": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1149250371148058705": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1158595533015887975": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1146431321544069190": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1129358928438886442": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1149235349088915567": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1157749985736146998": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1157880971006312498": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1157885226098364459"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "https://cdn.discordapp.com/attachments/1157954147476316230/1158315872369262612/bPmCIsy4JvZHvdVp.gif?ex=651bcd38&is=651a7bb8&hm=4c92463f9e353c9eccde5a68ac20d511f85dd165622554f4a0567bcb501f52ac&",
+                "message": "**Hey, <<user.mention>>** <a:985:1158235232319832134>\n<a:999:1158235251580080150> **__Welcome To Our Community__** <a:999:1158235251580080150>\n\n<a:996:1158235310145142884> **__Do Checkout These Channels__** <a:996:1158235310145142884> \n\n<a:998:1158235338926465125> <#1157882298260267128>    **Must Read & Follow Them**\n<a:998:1158235338926465125> <#1157888989286637679>       **Chat With Server Members**\n<a:998:1158235338926465125> <#1157888555926945832>    **Need Support Go Here**\n<a:998:1158235338926465125> <#1157887303696515073> \n**Make Sure To Get Latest News From Here**\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n**User Info -\n<a:888:1158235361303072878> User Name- `<<user.name>>`\n<a:888:1158235361303072878> Member Joined - <<server.member_count>>**\n\n<a:981:1158235270924210217> **__Thanks for joining our community__** <a:981:1158235270924210217>\n<a:993:1158235285994340422> **__Enjoy Your Stay <3__** <a:993:1158235285994340422>",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": 1158348314413121617,
+                "humans": 1158348314413121617
+            }
+        },
+        "1138313829411987466": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1154381973343711352": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "859074937670991892": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1159094991650553898": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1155504356393767046": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1133792592497213500": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1158971416566313031": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1087321654851534959": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1149581849396514836": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1147532778313883829": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1146713157327388682": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1160982363610828951": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1161576149055451156": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1141773534448853062": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1161639634032410775": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1158408289873301514": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1162351710681956392": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1092329346011758592": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1063451868807839867": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1156889029082632244": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1163902856382922792": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1148979589310328882": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1164189163705352233"
+                ],
+                "color": "0x41eeee",
+                "embed": true,
+                "footer": "",
+                "image": "https://share.creavite.co/8g8kYiG5qddPUZRn.gif",
+                "message": "**Hey, <<user.mention>> <a:985:1163060499500499035> \n<a:999:1160135745114218606>  __Welcome To Our Community__ <a:999:1160135745114218606> \n\n<a:996:1163060252187578469>  __Do Checkout These Channels __<a:996:1163060252187578469> \n\n<a:998:1163061283470450769><#1164008407427194971> Must Read & Follow Them\n<a:998:1163061283470450769><#1164189181866680381> Chat With Server Members\n<a:998:1163061283470450769><#1164189190934765638> Need Support Go Here\n<a:998:1163061283470450769> <#1164190819222306827> Make Sure To Get Latest News From Here\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nUser Info -\n<a:cx_heart:1162712331776688198>  User Name- <<user.name>>\n<a:cx_heart:1162712331776688198>   Member Joined - <<server.member_count>>\n** **\n__<a:981:1163060124412301363> Thanks for joining our community<a:981:1163060124412301363>__\n__<a:993:1163060161783541820>  Enjoy Your Stay 💖<a:993:1163060161783541820>__**",
+                "ping": true,
+                "title": "**Hey, <<user.mention>> Welcome To Rise Development**",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1160093161759191080": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1160909473938935828": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1143799799821381683": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        },
+        "1169592007673524264": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            }
+        }
+    }
+}

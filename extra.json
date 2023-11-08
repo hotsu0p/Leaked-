@@ -1,0 +1,30 @@
+{
+    "guilds": {
+        "1138812160533856257": {
+            "owners": [],
+            "antiSpam": false,
+            "antiLink": false,
+            "antiinvites": false,
+            "punishment": "mute",
+            "whitelisted": [],
+            "channel": null,
+            "mods": [],
+            "modrole": 1138844051597181041,
+            "ignorechannels": []
+        },
+        "1140228374246215710": {
+            "owners": [],
+            "antiSpam": false,
+            "antiLink": false,
+            "antiinvites": false,
+            "punishment": "mute",
+            "whitelisted": [],
+            "channel": null,
+            "mods": [
+                "1125692368247595029"
+            ],
+            "modrole": 1159135870239113316,
+            "ignorechannels": []
+        }
+    }
+}
