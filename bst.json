@@ -90,6 +90,63 @@
             "boost1": {
                 "role": []
             }
+        },
+        "1174331375676035083": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1174331378804981827"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "Thank you for boosting <<boost.server_name>> <<boost.user_name>> ! We now have <<server.boost_count>> ! <<boost.user_mention>> plz go over to <#1174331378804981830> and ping staff to claim your rewards!",
+                "ping": false,
+                "title": "",
+                "thumbnail": "https://media.discordapp.net/attachments/1174331379278950449/1174482610815242291/349551CE-2552-4B42-A561-31FFEA1E42FF.png?ex=6567c12b&is=65554c2b&hm=baa983c1250c14dcd6258b47665c004cb07f8e0b4365f1c270e10700c7cab8f2&"
+            },
+            "boost1": {
+                "role": [
+                    "1174331375759921276"
+                ]
+            }
+        },
+        "1174519106234482709": {
+            "boost": {
+                "autodel": 0,
+                "channel": [
+                    "1174519805521432577"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "Thank you for boosting <<boost.server_name>> <<boost.user_name>> ! We now have <<server.boost_count>> ! <<boost.user_mention>> plz go over to <#1174519808826548255>  and ping staff to claim your rewards!",
+                "ping": false,
+                "title": "",
+                "thumbnail": "https://media.discordapp.net/attachments/1174331379278950449/1174482610815242291/349551CE-2552-4B42-A561-31FFEA1E42FF.png?ex=6567c12b&is=65554c2b&hm=baa983c1250c14dcd6258b47665c004cb07f8e0b4365f1c270e10700c7cab8f2&"
+            },
+            "boost1": {
+                "role": []
+            }
+        },
+        "1153278866715066388": {
+            "boost": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<boost.user_mention>> Thank you for boosting <<boost.server_name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "boost1": {
+                "role": []
+            }
         }
     }
 }

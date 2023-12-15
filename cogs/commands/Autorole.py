@@ -65,7 +65,7 @@ class autorole(commands.Cog):
         f"`{ctx.prefix}autorole screening`\nToggles waiting on membership screening.\n\n`{ctx.prefix}autorole humans`\nSetup autoroles for human users.\n\n`{ctx.prefix}autorole config`\nGet autorole config for the server.\n\n`{ctx.prefix}autorole reset`\nClear autorole config for the server.\n\n`{ctx.prefix}autorole bots`\nSetup autroles for bots."
     )
     
-      embed.set_footer(text=f"LEGEND • Page 1/1",icon_url=self.bot.user.avatar)
+      embed.set_footer(text=f"Chatoic • Page 1/1",icon_url=self.bot.user.avatar)
                      
       await ctx.send(embed=embed)
 
@@ -77,7 +77,7 @@ class autorole(commands.Cog):
       embed = discord.Embed(
           title=f"`{prefix}autorole reset`",
         description=f"`{prefix}autorole reset bots`\nClears autorole config for the server.\n\n`{prefix}autorole reset all`\nClears autorole config for the server.\n\n`{prefix}autorole reset humans`\nClears autorole config for the server.", color=0x00FFCA)
-      embed.set_footer(text="LEGEND • Page 1/1", icon_url=self.bot.user.avatar)
+      embed.set_footer(text="Chatoic • Page 1/1", icon_url=self.bot.user.avatar)
       await ctx.send(embed=embed)
   
   @resetall.command(name="all")
@@ -98,7 +98,7 @@ class autorole(commands.Cog):
         title=f"`{ctx.prefix}autorole humans`",
         description=f"`{ctx.prefix}autorole humans add <role>`\nAdd a role to list of autoroles for human users.\n\n`{ctx.prefix}autorole humans remove <role>`\nRemove a role from autoroles for human users.", color=0x00FFCA
       )
-      embed.set_footer(text=f"LEGEND • Page 1/1",icon_url=client.user.avatar)
+      embed.set_footer(text=f"Chatoic • Page 1/1",icon_url=client.user.avatar)
       await ctx.send(embed=embed)
 
   @resetall.command(name="humans")
@@ -163,7 +163,7 @@ class autorole(commands.Cog):
         title=f"`{ctx.prefix}autorole bots`",
         description=f"`{ctx.prefix}autorole bots add <role>`\nAdd role to list of autoroles for bot users.\n\n`{ctx.prefix}autorole bots remove <role>`\nRemove a role from autoroles for bot users.", color=00000
     )
-    embed.set_footer(text=f"LEGEND • Page 1/1",icon_url=client.user.avatar)
+    embed.set_footer(text=f"Chatoic • Page 1/1",icon_url=client.user.avatar)
     await ctx.send(embed=embed)
     
   @resetall.command(name="bots")

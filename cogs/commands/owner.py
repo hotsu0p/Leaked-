@@ -34,7 +34,7 @@ class Owner(commands.Cog):
         paginator = Paginator(source=DescriptionEmbedPaginator(
             entries=entries,
             description="",
-            title=f"Server List of LEGEND - {len(self.client.guilds)}",
+            title=f"Server List of Chatoic - {len(self.client.guilds)}",
             color=0x2f3136,
             per_page=10),
                               ctx=ctx)
@@ -90,7 +90,7 @@ class Owner(commands.Cog):
                 paginator = Paginator(source=DescriptionEmbedPaginator(
                     entries=entries,
                     title=
-                    f"List of Blacklisted users of LEGEND - {len(blacklist['ids'])}",
+                    f"List of Blacklisted users of Chatoic - {len(blacklist['ids'])}",
                     description="",
                     per_page=10,
                     color=0x00FFCA),

@@ -132,14 +132,14 @@ async def autorolessacks(member):
       for role in human_autoroles:
         rl = gd.get_role(int(role))
         if not member.bot:
-          await member.add_roles(rl, reason="LEGEND Autoroles")
+          await member.add_roles(rl, reason="Chatoic Autoroles")
     if bot_autoroles == []:
       pass
     else:
       for rol in bot_autoroles:
         rml = gd.get_role(int(rol))
         if member.bot:
-          await member.add_roles(rml, reason="LEGEND Autoroles")
+          await member.add_roles(rml, reason="Chatoic Autoroles")
 
 #create_ticket_view = createTicket()
 #close_ticket_view = closeTicket()
@@ -189,7 +189,7 @@ async def on_command_completion(context: Context) -> None:
         value=
         f"{context.author} | ID: [{context.author.id}](https://discord.com/users/{context.author.id})",
         inline=False)
-      embed.set_footer(text="Powered By LEGEND",
+      embed.set_footer(text="Powered By Chatoic",
                        icon_url=client.user.display_avatar.url)
       await hacker.send(embed=embed)
     except:
@@ -211,7 +211,7 @@ async def on_command_completion(context: Context) -> None:
         value=
         f"{context.author} | ID: [{context.author.id}](https://discord.com/users/{context.author.id})",
         inline=False)
-      embed1.set_footer(text="Powered By LEGEND ",
+      embed1.set_footer(text="Powered By Chatoic ",
                         icon_url=client.user.display_avatar.url)
       await hacker.send(embed=embed1)
     except:
@@ -312,7 +312,7 @@ async def on_guild_join(guild):
     channel_id = 1157962819493445693 # Replace with the ID of the channel you want to send the message to
     channel = client.get_channel(channel_id)
     if channel:
-        await channel.send(f"LEGEND has been added to the server: {guild.name}")
+        await channel.send(f"Chatoic has been added to the server: {guild.name}")
 
 @client.command()
 async def chatgpt(ctx, *, question):
@@ -337,7 +337,7 @@ async def chatgpt(ctx, *, question):
 
     embed = Embed(description=f"```python {output}```", color=0x11100d)
     embed.set_author(
-        name="LEGEND Chat Gpt`s Response:",
+        name="Chatoic Chat Gpt`s Response:",
         icon_url=ctx.author.avatar.url if ctx.author.avatar else ctx.author.default_avatar.url
     )
     embed.set_footer(
@@ -412,7 +412,7 @@ async def main():
     os.system("clear")
     await client.load_extension("cogs")
     await client.load_extension("jishaku")
-    await client.start("MTE3MDczNTExNTg5MTEyNjMwMg.GdVQ6L.fmMdCZ_lDVtRo9kK14jaucEfVRkRat2cGcpDBE")
+    await client.start("MTE3MDczNTExNTg5MTEyNjMwMg.GM0G0w.PqIzkXczklpMv-XxAu4kpCshBxdWK1byxwclY8")
 
 
 if __name__ == "__main__":

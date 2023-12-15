@@ -15,12 +15,12 @@ class Server(commands.Cog):
   async def add_role(self, *, role: int, member: discord.Member):
     if member.guild.me.guild_permissions.manage_roles:
       role = discord.Object(id=int(role))
-      await member.add_roles(role, reason="LEGEND | Role Added ")
+      await member.add_roles(role, reason="Chatoic | Role Added ")
 
   async def remove_role(self, *, role: int, member: discord.Member):
     if member.guild.me.guild_permissions.manage_roles:
       role = discord.Object(id=int(role))
-      await member.remove_roles(role, reason="LEGEND | Role Removed")
+      await member.remove_roles(role, reason="Chatoic | Role Removed")
 
   @commands.command(name="owner",
                     description="Gives the owner role to the user .",
@@ -1216,7 +1216,7 @@ class Server(commands.Cog):
         numbers.append(autoresponsecount)
       if len(numbers) >= 20:
         hacker6 = discord.Embed(
-          title="LEGEND",
+          title="Chatoic",
           description=
           f"<a:no:1158411070608769034>  You can\'t add more than 20 autoresponses in {ctx.guild.name}",
           color=0x00FFCA)
@@ -1227,7 +1227,7 @@ class Server(commands.Cog):
     if str(ctx.guild.id) in autoresponse:
       if name in autoresponse[str(ctx.guild.id)]:
         hacker = discord.Embed(
-          title="LEGEND",
+          title="Chatoic",
           description=
           f"<a:no:1158411070608769034>  The autoresponse with the `{name}` is already in {ctx.guild.name}",
           color=0x00FFCA)
@@ -1240,7 +1240,7 @@ class Server(commands.Cog):
       with open("autoresponse.json", "w") as f:
         json.dump(autoresponse, f, indent=4)
       hacker1 = discord.Embed(
-        title="LEGEND",
+        title="Chatoic",
         description=
         f"<a:cx_tick:1158669360223748106>  | Successfully Created Autoresponder in {ctx.guild.name} with the `{name}`",
         color=0x00FFCA)
@@ -1256,7 +1256,7 @@ class Server(commands.Cog):
     with open("autoresponse.json", "w") as f:
       json.dump(autoresponse, f, indent=4)
       hacker2 = discord.Embed(
-        title="LEGEND",
+        title="Chatoic",
         description=
         f"<a:cx_tick:1158669360223748106>  | Successfully Created Autoresponder  in {ctx.guild.name} with the `{name}`",
         color=0x00FFCA)
@@ -1278,7 +1278,7 @@ class Server(commands.Cog):
         with open("autoresponse.json", "w") as f:
           json.dump(autoresponse, f, indent=4)
         hacker1 = discord.Embed(
-          title="LEGEND",
+          title="Chatoic",
           description=
           f"<a:cx_tick:1158669360223748106> | Successfully Deleted Autoresponder in {ctx.guild.name} with the `{name}`",
           color=0x00FFCA)
@@ -1288,7 +1288,7 @@ class Server(commands.Cog):
         return await ctx.reply(embed=hacker1)
       else:
         hacker = discord.Embed(
-          title="LEGEND",
+          title="Chatoic",
           description=
           f"<a:no:1158411070608769034>  No Autoresponder Found With The Name `{name}` In {ctx.guild.name}",
           color=0x00FFCA)
@@ -1298,7 +1298,7 @@ class Server(commands.Cog):
         return await ctx.reply(embed=hacker)
     else:
       hacker2 = discord.Embed(
-        title="LEGEND",
+        title="Chatoic",
         description=
         f"<a:no:1158411070608769034>  There is no Autoresponder in {ctx.guild.name}",
         color=0x00FFCA)
@@ -1343,7 +1343,7 @@ class Server(commands.Cog):
         with open("autoresponse.json", "w") as f:
           json.dump(autoresponse, f, indent=4)
         hacker1 = discord.Embed(
-          title="LEGEND",
+          title="Chatoic",
           description=
           f"<a:cx_tick:1158669360223748106>  | Successfully Edited Autoresponder in {ctx.guild.name} with the `{name}`",
           color=0x00FFCA)
@@ -1353,7 +1353,7 @@ class Server(commands.Cog):
         return await ctx.send(embed=hacker1)
     else:
       hacker2 = discord.Embed(
-        title="LEGEND",
+        title="Chatoic",
         description=
         f"<a:no:1158411070608769034>  No Autoresponder Found With The Name `{name}` In {ctx.guild.name}",
         color=0x00FFCA)

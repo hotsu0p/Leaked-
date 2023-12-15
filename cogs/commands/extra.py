@@ -123,11 +123,11 @@ class Utility(commands.Cog):
     @ignore_check()
     async def invite(self, ctx: commands.Context):
         embed = discord.Embed(
-            title="** <a:999:1160135745114218606> LEGEND's Invite**<a:999:1160135745114218606> ",
+            title="** <a:999:1160135745114218606> Chatoic's Invite**<a:999:1160135745114218606> ",
             description=
-            "> • **[Invite Me ](https://discord.com/api/oauth2/authorize?client_id=1163839531880038460&permissions=8&scope=bot)\n> • [Support Server](https://discord.gg/3Khp9KedDq)**",
+            "> • **[Invite Me ](https://discord.com/api/oauth2/authorize?client_id=1170735115891126302&permissions=8&scope=bot)\n> • [Support Server](https://discord.gg/jj25BZgrFb)**",
             color=0x41eeee)
-        embed.set_image(url="https://images-ext-2.discordapp.net/external/3q06ABqkXIYZecNSzlEvFVz9bj02w3ru67jF9JCfE4Y/https/share.creavite.co/hy4VXAZVW2VRsmDI.gif")      
+        embed.set_image(url="https://cdn.discordapp.com/attachments/1157042944637931582/1171838050972729474/city-lofi.mp4?ex=655e223b&is=654bad3b&hm=82b2b20a1b8b0fe44aa25214d8fa08860f2fc0390caf41caab6be1d16f7e6ec2&")      
         await ctx.send(embed=embed)
 
     @commands.hybrid_command(name="vote", aliases=['dbl'], description="Vote Me and Support Us")
@@ -142,7 +142,7 @@ class Utility(commands.Cog):
         embed = discord.Embed(color=discord.Colour(0x0d0d13), description="**[Click Here](https://discord.gg/ErJkzJKgBU)** To Vote Me.")
         view = View()
         view.add_item(button)
-        embed.set_author(name='Vote LEGEND',
+        embed.set_author(name='Vote Chatoic',
   icon_url=self.bot.user.display_avatar.url)
         await ctx.send(embed=embed, view=view)
 
@@ -155,7 +155,7 @@ class Utility(commands.Cog):
                     if g.member_count != None)
         channel = len(set(self.bot.get_all_channels()))
         embed = discord.Embed(color=0x0d0d13,
-                              title="LEGEND's Information",
+                              title="Chatoic's Information",
                               description=f"""
 **Bot's Mention:** {self.bot.user.mention}
 **Bot's Username:** {self.bot.user}
@@ -744,7 +744,7 @@ class Utility(commands.Cog):
                              inline=False)
             embed2.add_field(
                 name="**Bot Badges:**",
-                value="**<a:Cosy_girl_shy:1162081346865340457> Family**",
+                value="**<:info:1164200583390040114> Family**",
                 inline=False)
             embed2.set_author(name=f"{mem}",
                               icon_url=mem.avatar.url
@@ -784,21 +784,19 @@ class Utility(commands.Cog):
 
 
 
-    @commands.hybrid_command(name="source", description="Source of LEGEND")
+    @commands.hybrid_command(name="source", description="Source of Chatoic")
     @commands.cooldown(1, 3, commands.BucketType.user)
     @commands.max_concurrency(1, per=commands.BucketType.default, wait=False)
     @commands.guild_only()
     async def _source(self, ctx):
         button = Button(label="Code", url = "https://github.com/discord.py")
-        button1 = Button(label="Tutorial", url = "https://youtu.be/xvFZjo5PgG0")
 
-        embed = discord.Embed(color=discord.Colour(0xff0000),title="LEGEND Bot Source Code", description="Click the buttons below to access the source code and tutorial.")
+        embed = discord.Embed(color=discord.Colour(0xff0000),title="Chatoic Bot Source Code", description="Click the buttons below to access the source code and tutorial.")
         view = View()
         view.add_item(button)
-        view.add_item(button1)
         embed.set_author(name=f"{ctx.author.name}",
                          icon_url=f"{ctx.author.avatar}")
-        embed.set_footer(text="LEGEND Bot Source Code")
+        embed.set_footer(text="Chatoic Bot Source Code")
         await ctx.send(embed=embed, view=view)
 
     @commands.hybrid_command(name="statistics",
@@ -808,7 +806,7 @@ class Utility(commands.Cog):
     @blacklist_check()
     @ignore_check()
     async def stats(self, ctx):
-        """Shows some usefull information about LEGEND"""
+        """Shows some usefull information about Chatoic"""
         loading_message = await ctx.send(embed=discord.Embed(
         color=0x2f3136,
         description="**<a:loading:1160242511533588650> Fetching Info From Database...**"
@@ -828,27 +826,27 @@ class Utility(commands.Cog):
         total_members = sum(g.member_count for g in self.bot.guilds
                             if g.member_count != None)
 
-        pain = await self.bot.fetch_user(1036877996243562516)
-        papa = await self.bot.fetch_user(926831289649201213)
-        uts = await self.bot.fetch_user(1069894893410979850)
+        pain = await self.bot.fetch_user(969655699154042940)
+        papa = await self.bot.fetch_user(969655699154042940)
+        uts = await self.bot.fetch_user(969655699154042940)
         #button2 = Button(label="Vote", url = "https://top.gg/bot/1136504108937908305/vote")
-        button = Button(label="Support Server", url = "https://discord.gg/3Khp9KedDq")
-        button1 = Button(label="Invite Me", url = "https://discord.com/api/oauth2/authorize?client_id=1163839531880038460&permissions=8&scope=bot")
+        button = Button(label="Support Server", url = "https://discord.gg/jj25BZgrFb")
+        button1 = Button(label="Invite Me", url = "https://discord.com/api/oauth2/authorize?client_id=1170735115891126302&permissions=8&scope=bot")
 
         await asyncio.sleep(0000)
 
         embed = discord.Embed(
             color=0x2f3136,
             description=
-            "**Hey, It's Me LEGEND A Feature Rich Advanced Multipurpose Bot. Build The Community Of Your Dreams With Me. Try LEGEND Now!**"
+            "**Hey, It's Me Chatoic A Feature Rich Advanced Multipurpose Bot. Build The Community Of Your Dreams With Me. Try Chatoic Now!**"
         )
 
         embed.add_field(
             name="**<a:moon:1158411057325428756> DEVELOPER**",
-            value=f"[{pain}](https://discord.com/users/926831289649201213)\n[{papa}](https://discord.com/users/1125692368247595029)\n[{uts}](https://discord.com/users/1037912777932681338)")
+            value=f"[{pain}](https://discord.com/users/969655699154042940)")
         embed.add_field(
             name="**<a:cx_crown:1158669179059183687> OWNERS**",
-            value=f"[{pain}](https://discord.com/users/926831289649201213)\n[{papa}](https://discord.com/users/1125692368247595029)",
+            value=f"[{pain}](https://discord.com/users/969655699154042940)",
         inline=False)
         embed.add_field(name='**Bot Stat(s)**',
                         value=f"**→** Total Guilds: **{serverCount} Guilds**\n**→** Total Users: **{total_members} Users | {cached} Cached**\n**→** Channels:\n- Total: **{total} Channels**\n- Text: **{textchannel} Channels**\n- Voice: **{voicechannel} Channels**\n- Categories: **{categorichannel} Channels**",

@@ -54,11 +54,11 @@ class HelpCommand(commands.HelpCommand):
 
     total_members = sum(g.member_count for g in self.client.guilds
                             if g.member_count != None)
-    LEGEND = [
+    Chatoic = [
       commands.CommandOnCooldown, commands.CommandNotFound,
       discord.HTTPException, commands.CommandInvokeError
     ]
-    if not type(error) in LEGEND:
+    if not type(error) in Chatoic:
       await self.context.reply(f"Unknown Error Occurred\n{error.original}",
                                mention_author=False)
     else:
@@ -74,7 +74,7 @@ class HelpCommand(commands.HelpCommand):
       embed = discord.Embed(
         title="<:blacklist:1158791166867812495> Blacklisted",
         description=
-        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/3Khp9KedDq)",
+        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/jj25BZgrFb)",
         color=0x00FFCA)
       await self.context.reply(embed=embed, mention_author=False)
     else:
@@ -108,7 +108,7 @@ class HelpCommand(commands.HelpCommand):
       embed = discord.Embed(
         title="<:blacklist:1158791166867812495> Blacklisted",
         description=
-        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/3Khp9KedDq)",
+        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/jj25BZgrFb)",
         color=0x11100d)
       return await self.context.reply(embed=embed, mention_author=False)
     elif str(self.context.channel.id) in randi["ids"]:
@@ -125,17 +125,17 @@ class HelpCommand(commands.HelpCommand):
     embed = discord.Embed(
       title="**Help Command Overview **:",
       description=
-      f"**•  My defult Prefix is `{prefix}`\n •  Total Commands: {len(set(self.context.bot.walk_commands()))} | Usable by you (here): {len(set(filtered))}\n •  Links ~ [Invite](https://discord.com/api/oauth2/authorize?client_id=1163839531880038460&permissions=8&scope=bot) | [Support](https://discord.gg/3Khp9KedDq) \n• Type `{prefix}help <command | module>` for more info.**\n```    <> - Required | [] - Optional``` ",
+      f"**•  My defult Prefix is `{prefix}`\n •  Total Commands: {len(set(self.context.bot.walk_commands()))} | Usable by you (here): {len(set(filtered))}\n •  Links ~ [Invite](https://discord.com/api/oauth2/authorize?client_id=1170735115891126302&permissions=8&scope=bot) | [Support](https://discord.gg/jj25BZgrFb) \n• Type `{prefix}help <command | module>` for more info.**\n```    <> - Required | [] - Optional``` ",
       color= 0x41eeee)
     embed.set_thumbnail(url=self.context.bot.user.display_avatar.url)
 
     embed.set_footer(
-      text="Made by the Rise development team💖",
-      icon_url="https://media.discordapp.net/attachments/1164189183800258642/1169219219309727815/rise.gif?ex=65549b40&is=65422640&hm=11dbc2370e85391f4880fd9c54908bf1d22789de351e7748795cadfb3c4b7306&")
+      text="Made by the Hotsuop dev services💖",
+      icon_url="https://cdn.discordapp.com/avatars/1170735115891126302/dc3e50807325ea566a4b814aab69d56c.png?size=1024")
 
     embed.add_field(name="**__Main Modules __**",
                     value="""
-<:invisible:1158410927318773800><:xD:1158411024903454872> Antinuke\n <:invisible:1158410927318773800><a:tadaaa:1162353626593894460> Giveaway\n <:invisible:1158410927318773800><a:Musicz:1158410945744355439> Music\n <:invisible:1158410927318773800><:CommandsList:1158410923455819816> Logging\n <:invisible:1158410927318773800><:nexus_mod:1158410954229432410> Moderation\n <:invisible:1158410927318773800><a:moon:1158411057325428756>  Extra\n <:invisible:1158410927318773800><a:boost:1158411048190218291> Boost \n <:invisible:1158410927318773800><a:messages:1158411054741725245> Message\n<:invisible:1158410927318773800><:nexus_Ticket:1158721875925549097> Ticket\n<:invisible:1158410927318773800><a:Games:1169154665703817247> Games""",
+<:invisible:1158410927318773800><:xD:1158411024903454872> Antinuke\n <:invisible:1158410927318773800><a:tadaaa:1162353626593894460> Giveaway\n <:invisible:1158410927318773800><a:Musicz:1158410945744355439> Music\n <:invisible:1158410927318773800><:CommandsList:1158410923455819816> Logging\n <:invisible:1158410927318773800><:nexus_mod:1158410954229432410> Moderation\n <:invisible:1158410927318773800><a:moon:1158411057325428756>  Extra\n <:invisible:1158410927318773800><a:boost:1158411048190218291> Boost <:0_:1170733166999392317><:1_:1170733169344004156> \n <:invisible:1158410927318773800><a:messages:1158411054741725245> Message\n<:invisible:1158410927318773800><:nexus_Ticket:1158721875925549097> Ticket <:0_:1170733166999392317><:1_:1170733169344004156>\n<:invisible:1158410927318773800><a:Games:1169154665703817247> Games <:0_:1170733166999392317><:1_:1170733169344004156>s""",
                     inline=True)  
 
     embed.add_field(name="**__Basics Modules __**",
@@ -148,7 +148,7 @@ class HelpCommand(commands.HelpCommand):
    # )
     embed.set_author(name=self.context.author.name,
                      icon_url=self.context.author.display_avatar.url)
-    embed.set_image(url="https://images-ext-2.discordapp.net/external/3q06ABqkXIYZecNSzlEvFVz9bj02w3ru67jF9JCfE4Y/https/share.creavite.co/hy4VXAZVW2VRsmDI.gif")
+    embed.set_image(url="https://cdn.discordapp.com/attachments/1157042944637931582/1171838050972729474/city-lofi.mp4?ex=655e223b&is=654bad3b&hm=82b2b20a1b8b0fe44aa25214d8fa08860f2fc0390caf41caab6be1d16f7e6ec2&")
     embed.timestamp = discord.utils.utcnow()
 
     # Create the invite button
@@ -156,19 +156,19 @@ class HelpCommand(commands.HelpCommand):
         style=discord.ButtonStyle.link,
    #     emoji='<a:985:1151531674207789189>',
         label="Invite Me",
-        url="https://discord.com/api/oauth2/authorize?client_id=1163839531880038460&permissions=8&scope=bot"
+        url="https://discord.com/api/oauth2/authorize?client_id=1170735115891126302&permissions=8&scope=bot"
     )
     support_button = discord.ui.Button(
         style=discord.ButtonStyle.link,
    #     emoji='<a:999:1151531721381134377>',
         label="Support Server",
-      url="https://discord.gg/3Khp9KedDq"
+      url="https://discord.gg/jj25BZgrFb"
     )
     Vote_button = discord.ui.Button(
         style=discord.ButtonStyle.link,
    #     emoji='<a:982:1142461636389650542>',
         label="Vote Me",
-      url="https://discord.gg/3Khp9KedDq"
+      url="https://discord.gg/jj25BZgrFb"
     )    
 
     view = vhelp.View(mapping=mapping, ctx=self.context, homeembed=embed, ui=2)
@@ -187,7 +187,7 @@ class HelpCommand(commands.HelpCommand):
       embed = discord.Embed(
         title="<:blacklist:1158791166867812495> Blacklisted",
         description=
-        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/3Khp9KedDq)",
+        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/jj25BZgrFb)",
         color=0x00FFCA)
       await self.context.reply(embed=embed, mention_author=False)
     elif str(self.context.channel.id) in randi["ids"]:
@@ -237,7 +237,7 @@ class HelpCommand(commands.HelpCommand):
       embed = discord.Embed(
         title="<:blacklist:1158791166867812495> Blacklisted",
         description=
-        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/3Khp9KedDq)",
+        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/jj25BZgrFb)",
         color=0x00FFCA)
       await self.context.reply(embed=embed, mention_author=False)
     elif str(self.context.channel.id) in randi["ids"]:
@@ -265,7 +265,7 @@ class HelpCommand(commands.HelpCommand):
       embed = discord.Embed(
         title="<:blacklist:1158791166867812495> Blacklisted",
         description=
-        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/3Khp9KedDq)",
+        "You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can Appeal In Our Support Server By Clicking [here](https://discord.gg/jj25BZgrFb)",
         color=0x00FFCA)
       return await self.context.reply(embed=embed, mention_author=False)
     elif str(self.context.channel.id) in randi["ids"]:

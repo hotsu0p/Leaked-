@@ -673,7 +673,7 @@ class Music(commands.Cog):
                 mbed = discord.Embed(
                     color=0xff0000,
                     description=
-                    f" <:user_icon:1159401600348082236> [{track.title}](https://discord.gg/3Khp9KedDq) | {track.url}"
+                    f" <:user_icon:1159401600348082236> [{track.title}](https://discord.gg/jj25BZgrFb) | {track.url}"
                 )
                 # mbed.add_field(name="<a:playing:1045213196207804568> ", value=f"[{track.title}](https://discord.gg/ntxYtEbhuw)")
                #  mbed.add_field(name="<:users:1045213273273929738> Requested By", value=f"{ctx.author.mention}")
@@ -700,7 +700,7 @@ class Music(commands.Cog):
                 await vc.queue.put_wait(track)
                 embed = discord.Embed(
                     description=
-                    f'[{track}](https://discord.gg/3Khp9KedDq) | {track.url} Added To The Queue',
+                    f'[{track}](https://discord.gg/jj25BZgrFb) | {track.url} Added To The Queue',
                     color=0x00FFED)
 
                 embed.set_author(name="ADDED TO QUEUE",
@@ -720,7 +720,7 @@ class Music(commands.Cog):
                 mbed = discord.Embed(
                     color=0xff0000,
                     description=
-                    f"<:user_icon:1159401600348082236> [{track1}](https://discord.gg/3Khp9KedDq) | {track1.url}"
+                    f"<:user_icon:1159401600348082236> [{track1}](https://discord.gg/jj25BZgrFb) | {track1.url}"
                 )
                 mbed.add_field(name="Song Url", value=search)
                 # mbed.add_field(name="<a:1045213196207804568> ", value=f"[{track1}](https://discord.gg/ntxYtEbhuw)")
@@ -741,7 +741,7 @@ class Music(commands.Cog):
                 await vc.queue.put_wait(track1[0])
                 embed = discord.Embed(
                     description=
-                    f'[{track1}](https://discord.gg/3Khp9KedDq) Added To The Queue | ',
+                    f'[{track1}](https://discord.gg/jj25BZgrFb) Added To The Queue | ',
                     color=0x00FFED)
 
                 embed.set_author(name="ADDED TO QUEUE",
@@ -762,7 +762,7 @@ class Music(commands.Cog):
                 mbed = discord.Embed(
                     color=0xff0000,
                     description=
-                    f"<:user_icon:1159401600348082236> [{track2.title}](https://discord.gg/3Khp9KedDq)"
+                    f"<:user_icon:1159401600348082236> [{track2.title}](https://discord.gg/jj25BZgrFb)"
                 )
                 #mbed.add_field(name="<a:jk_playing:1045213196207804568> ", value=f"[{track2.title}](https://discord.gg/jkop)")
                 #mbed.add_field(name="<:jk_users:1045213273273929738> Requested By", value=f"{ctx.author.mention}")
@@ -790,7 +790,7 @@ class Music(commands.Cog):
                 await vc.queue.put_wait(track2)
                 embed = discord.Embed(
                     description=
-                    f'[{track2}](https://discord.gg/3Khp9KedDq) Added To The Queue',
+                    f'[{track2}](https://discord.gg/jj25BZgrFb) Added To The Queue',
                     color=0x00FFED)
 
                 embed.set_author(name="ADDED TO QUEUE",
@@ -814,7 +814,7 @@ class Music(commands.Cog):
                 mbed = discord.Embed(
                     color=0xff0000,
                     description=
-                    f" <:user_icon:1159401600348082236>[{new_song.title}](https://discord.gg/3Khp9KedDq)"
+                    f" <:user_icon:1159401600348082236>[{new_song.title}](https://discord.gg/jj25BZgrFb)"
                 )
                 #mbed.add_field(name="<a:jk_playing:1045213196207804568> ", value=f"[{new_song.title}](https://discord.gg/jkop)")
                 #mbed.add_field(name="<:jk_users:1045213273273929738> Requested By", value=f"{ctx.author.mention}")
@@ -836,7 +836,7 @@ class Music(commands.Cog):
                 mbed = discord.Embed(
                     color=0xff0000,
                     description=
-                    f"<:user_icon:1159401600348082236> [{new_song.title}](https://discord.gg/3Khp9KedDq)"
+                    f"<:user_icon:1159401600348082236> [{new_song.title}](https://discord.gg/jj25BZgrFb)"
                 )
                 #mbed.add_field(name="<a:jk_playing:1045213196207804568> ", value=f"[{new_song.title}](https://discord.gg/jkop)")
                 mbed.add_field(
@@ -1197,7 +1197,7 @@ class Music(commands.Cog):
             return await ctx.send(embed=hacker1)
 
         em = discord.Embed(
-            description=f"[{vc.track}](https://discord.gg/3Khp9KedDq)",
+            description=f"[{vc.track}](https://discord.gg/jj25BZgrFb)",
             color=0x00FFED)
 
         em.add_field(name="<:invitesss:1159402072899321876> Song By",
@@ -1318,7 +1318,7 @@ class Music(commands.Cog):
         for song in copy:
             count += 1
             hacker4.add_field(name=f"Position : {count}",
-                              value=f"[{song.title}](https://discord.gg/3Khp9KedDq)")
+                              value=f"[{song.title}](https://discord.gg/jj25BZgrFb)")
         return await ctx.send(embed=hacker4)
 
     @_queue.command(name="clear", aliases=[("c")])

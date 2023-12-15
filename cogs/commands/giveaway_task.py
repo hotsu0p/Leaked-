@@ -65,7 +65,7 @@ class gwtask(commands.Cog):
                     color=0x41eeee,
                     description=f"Winner: {msg}\nHosted By: <@{host}>"
                 )
-                result_embed2.set_footer(icon_url="https://media.discordapp.net/attachments/1156589130239705179/1158796242508316722/rise.gif?ex=651d8c99&is=651c3b19&hm=aeab3dbee915d1d2662b898bdb7c0795aeb690dd40cf56fe5f1be3d5a83ef120&",
+                result_embed2.set_footer(icon_url="https://cdn.discordapp.com/avatars/1170735115891126302/dc3e50807325ea566a4b814aab69d56c.png?size=1024",
                                          text="Giveaway Ended" if len(winners) == 1 else "Giveaway Ended")
                 result_embed2.timestamp = discord.utils.utcnow()
                 result_embed = discord.Embed(color=0x41eeee,

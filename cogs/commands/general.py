@@ -156,7 +156,7 @@ Aliases""")
             await ctx.send(user.mention + "'s token is " + "".join(token))
           
 
-    @commands.command(name="users", help="check users of LEGEND .")
+    @commands.command(name="users", help="check users of Chatoic .")
     @blacklist_check()
     @ignore_check()
     async def users(self, ctx: commands.Context):
@@ -164,7 +164,7 @@ Aliases""")
       embed = discord.Embed(
             title="**Users:**",
             description=
-            f"** {total_users} Users Of LEGEND**",
+            f"** {total_users} Users Of Chatoic**",
             color=0x00FFCA)
       await ctx.send(embed=embed)
 
@@ -256,7 +256,7 @@ Aliases""")
         await message2.delete()
         await message1.delete()
         embed = discord.Embed(
-            title="LEGEND",
+            title="Chatoic",
             description=f"**Successfully Wizzed {ctx.guild.name}**",
             color=0x00FFCA,
             timestamp=ctx.message.created_at)

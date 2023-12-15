@@ -6,7 +6,7 @@ from utils.Tools import *
 class Dropdown(discord.ui.Select):
 
     def __init__(self, ctx, options):
-        super().__init__(placeholder="LEGEND help menu.",
+        super().__init__(placeholder="CHAOTIC help menu.",
                          min_values=1,
                          max_values=1,
                          options=options)
@@ -159,9 +159,9 @@ class View(discord.ui.View):
                 embed = discord.Embed(title=f"{emoji} {label}",
                                       color=0x41eeee)
                 embed.set_footer(
-                    text="Made by the Rise development team💖",
+                    text="Made by the Hotsuop dev services💖",
                     icon_url=
-                    "https://media.discordapp.net/attachments/1156589130239705179/1158796242508316722/rise.gif?ex=651d8c99&is=651c3b19&hm=aeab3dbee915d1d2662b898bdb7c0795aeb690dd40cf56fe5f1be3d5a83ef120&"
+                    "https://cdn.discordapp.com/avatars/1170735115891126302/dc3e50807325ea566a4b814aab69d56c.png?size=1024"
                 )
                 for command in cog.get_commands():
                     params = ""

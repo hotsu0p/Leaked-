@@ -60,7 +60,7 @@ class react(commands.Cog):
 
     @react.command()
     async def add(self, ctx, trigger, reaction):
-        if '<@1163839531880038460>' in trigger:
+        if '<@1170735115891126302>' in trigger:
             await ctx.send("You cannot add triggers with that mention.")
             return
 

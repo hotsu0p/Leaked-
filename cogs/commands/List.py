@@ -334,8 +334,8 @@ No Description Provided...
 Shows The List of Banned members  """,
                           color=0x41eeee)
       lol.set_footer(
-        text="Made with 💖 by the Rise development team",
-        icon_url = "https://cdn.discordapp.com/avatars/1163839531880038460/3230c95733d228be028ca5059eac1f77.png?size=1024"
+        text="Made with 💖 by the Hotsuop dev services",
+        icon_url = "https://cdn.discordapp.com/avatars/1170735115891126302/3230c95733d228be028ca5059eac1f77.png?size=1024"
     )
       await ctx.send(embed=lol)
       ctx.command.reset_cooldown(ctx)

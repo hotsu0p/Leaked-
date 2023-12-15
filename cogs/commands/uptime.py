@@ -16,10 +16,10 @@ class Uptime(commands.Cog):
         days, hours = divmod(hours, 24)
         uptime_str = "```{:d}d {:02d}h {:02d}m {:02d}s```".format(days, hours, minutes, seconds)
 
-        embed = discord.Embed(title="LEGEND™ Uptime", description=uptime_str, color=0x2f3136)
+        embed = discord.Embed(title="CHAOTIC™ Uptime", description=uptime_str, color=0x2f3136)
         member = ctx.guild.get_member(ctx.author.id)
         if member:
-            embed.set_author(name=f"LEGEND™ Uptime",icon_url=self.bot.user.display_avatar.url)
+            embed.set_author(name=f"CHAOTIC™ Uptime",icon_url=self.bot.user.display_avatar.url)
             embed.set_footer(text=f"Requested by {ctx.author.name}", icon_url=ctx.author.display_avatar.url)
         else:
             embed.set_footer(text=f"Requested by {ctx.author.name}")

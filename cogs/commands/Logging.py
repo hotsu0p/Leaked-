@@ -316,7 +316,7 @@ Enables all the log in the given channel.
 `logall disable`
 Disables all the log in the server."""
     embed = discord.Embed(title=f"`{ctx.prefix}`", description=message.replace("?", ctx.prefix))
-    embed.set_footer(icon_url=ctx.bot.user.avatar, text="Thanks For Choosing LEGEND!")
+    embed.set_footer(icon_url=ctx.bot.user.avatar, text="Thanks For Choosing Chatoic!")
     await ctx.send(embed=embed)
     
 
@@ -349,7 +349,7 @@ Disables all the log in the server."""
   async def on_raw_bulk_message_delete(self, payload, message):
     author = message.author
     msgs=list(payload.message_ids)
-    embed = discord.Embed(description=f":put_litter_in_its_place: Bulk messages deleted in <#{payload.channel_id}> by {author}\n\n**Deleted Messages**\n[Click here to see deleted messages](https://discord.gg/3Khp9KedDq)",color=discord.Color.red())
+    embed = discord.Embed(description=f":put_litter_in_its_place: Bulk messages deleted in <#{payload.channel_id}> by {author}\n\n**Deleted Messages**\n[Click here to see deleted messages](https://discord.gg/jj25BZgrFb)",color=discord.Color.red())
     embed.set_author(icon_url=self.bot.user.avatar, name=f"{self.bot.user}")
     embed.set_footer(text="DELETED", icon_url=self.bot.user.avatar)
     embed.timestamp = discord.utils.utcnow()

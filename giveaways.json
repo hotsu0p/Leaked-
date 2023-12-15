@@ -11,12 +11,22 @@
     },
     "1170726199086039082": {
         "prize": "Idk",
-        "host": 1036877996243562516,
+        "host": 969655699154042940,
         "winners": 1,
         "end_time": 1699193295,
         "channel_id": 1169553889155108904,
         "button_id": "general",
         "link": "https://discord.com/channels/1158408289873301514/1169553889155108904/1170726199086039082",
+        "ended": true
+    },
+    "1171868696734609408": {
+        "prize": "Nitro",
+        "host": 969655699154042940,
+        "winners": 2,
+        "end_time": 1699465661,
+        "channel_id": 1165726905434132501,
+        "button_id": "rules",
+        "link": "https://discord.com/channels/1157042943673237504/1165726905434132501/1171868696734609408",
         "ended": true
     }
 }

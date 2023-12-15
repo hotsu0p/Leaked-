@@ -40,16 +40,16 @@ class antipinginv(Cog):
 
     @commands.Cog.listener()
     async def on_message(self, message):
-      button = Button(label="Invite Me", url =  "https://discord.com/api/oauth2/authorize?client_id=1163839531880038460&permissions=8&scope=bot")
-      button1 = Button(label="Support Server", url = "https://discord.gg/3Khp9KedDq")
-      button2 = Button(label="Vote Me", url = "https://discord.gg/3Khp9KedDq")
+      button = Button(label="Invite Me", url =  "https://discord.com/api/oauth2/authorize?client_id=1170735115891126302&permissions=8&scope=bot")
+      button1 = Button(label="Support Server", url = "https://discord.gg/jj25BZgrFb")
+      button2 = Button(label="Vote Me", url = "https://discord.gg/jj25BZgrFb")
       try:
        
         with open("blacklist.json", "r") as f:
           data2 = json.load(f)
         with open('ignore.json', 'r') as heck:
           randi = json.load(heck)
-          astroz = '<@1163839531880038460>'
+          astroz = '<@1170735115891126302>'
           try:
             data = getConfig(message.guild.id)
             anti = getanti(message.guild.id)
@@ -75,9 +75,9 @@ class antipinginv(Cog):
                 return
 
 
-          elif message.content == astroz or message.content == "<@1163839531880038460>":
+          elif message.content == astroz or message.content == "<@1170735115891126302>":
             if str(message.author.id) in data2["ids"]:
-              embed = discord.Embed(title="<:bruh:1159400698354606141> Blacklisted", description="You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can't Appeal In Our Support Server By Clicking [here](https://discord.gg/3Khp9KedDq)")
+              embed = discord.Embed(title="<:bruh:1159400698354606141> Blacklisted", description="You Are Blacklisted From Using My Commands.\nIf You Think That It Is A Mistake, You Can't Appeal In Our Support Server By Clicking [here](https://discord.gg/jj25BZgrFb)")
               await message.reply(embed=embed, mention_author=False)
             if str(message.channel.id) in randi["ids"]:
                 await message.reply(f"My all commands are disabled for {message.channel.mention}",mention_author=True, delete_after=10)

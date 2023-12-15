@@ -78,7 +78,7 @@ Threads : {len(guild.threads)}
     if not guild.chunked:
         await guild.chunk()
     embed = discord.Embed(
-            title="\U0001f44b Hey, I am LEGEND",
+            title="\U0001f44b Hey, I am CHAOTIC",
             description="Hello, thank you for adding me to your server. Here are some commands to get you started.",
             color=0x00FFCA,
         )
@@ -86,7 +86,7 @@ Threads : {len(guild.threads)}
     embed.add_field(name="botinfo", value="Show some info about the bot.", inline=False)
     embed.add_field(
             name="join",
-            value="You can support LEGEND by joining Support Server! Thank you!",
+            value="You can support CHAOTIC by joining Support Server! Thank you!",
             inline=False,
         )
     channel = discord.utils.get(guild.text_channels, name="general")

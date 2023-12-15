@@ -54,7 +54,7 @@ class Security(Cog):
     if ctx.author == ctx.guild.owner or ctx.author.top_role.position > ctx.guild.me.top_role.position:
       if data == "on":
         embed = discord.Embed(
-          title="LEGEND",
+          title="CHAOTIC",
           description=
           f"**{ctx.guild.name} security settings **<:xD:1158411024903454872>\nOhh uh! looks like your server has already enabled security\n\nCurrent Status: <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n\n> To disable use `antinuke disable`",
           color=0x00FFCA)
@@ -64,7 +64,7 @@ class Security(Cog):
         data = "on"
         updateanti(ctx.guild.id, data)
         embed2 = discord.Embed(
-          title="LEGEND",
+          title="CHAOTIC",
           description=
           f"**{ctx.guild.name} Security Settings** <:xD:1158411024903454872>\nAlso move my role to top of roles for me to work properly.\n\nPunishments:\n\n**Anti Bot:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Ban:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Kick:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Prune:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Channel Create/Delete/Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Role Create/Delete/Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Webhook Create:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Emoji Create/Delete/Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Guild Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Community Spam:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Integration Create:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Everyone/Here/Role Mention:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Whitelisted Users:** {len(wled)}\n\n**Auto Recovery:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>",
           color=0x00FFCA)
@@ -101,7 +101,7 @@ class Security(Cog):
     if ctx.author == ctx.guild.owner or ctx.author.top_role.position > ctx.guild.me.top_role.position:
       if data == "off":
         emb = discord.Embed(
-          title="LEGEND",
+          title="CHAOTIC",
           description=
           f"**{ctx.guild.name} Security Settings **<:xD:1158411024903454872>\nOhh NO! looks like your server has already disabled security\n\nCurrent Status: <:antinuke_nope:1131833647696187392><:n_antinuke_yes:1131834322509377654>\n\n> To enable use `antinuke enable`",
           color=0x00FFCA)
@@ -110,7 +110,7 @@ class Security(Cog):
         data = "off"
         updateanti(ctx.guild.id, data)
         final = discord.Embed(
-          title="LEGEND",
+          title="CHAOTIC",
           description=
           f"**{ctx.guild.name} Security Settings** <:xD:1158411024903454872>\nSuccessfully disabled security settings.\n\nCurrent Status: <:antinuke_nope:1131833647696187392><:n_antinuke_yes:1131834322509377654>\n\n> To enable again use `antinuke enable`",
           color=0x00FFCA)
@@ -145,14 +145,14 @@ class Security(Cog):
     wlroles = ctx.guild.get_role(wlrole)
     if data == "off":
       emb = discord.Embed(
-        title="LEGEND",
+        title="CHAOTIC",
         description=
         f"**{ctx.guild.name} Security Settings **<:xD:1158411024903454872>\nOhh NO! looks like your server has already disabled security\n\nCurrent Status: <:antinuke_nope:1131833647696187392><:n_antinuke_yes:1131834322509377654>\n\n> To enable use `antinuke enable`",
         color=0x00FFCA)
       await ctx.reply(embed=emb, mention_author=False)
     elif data == "on":
       embed2 = discord.Embed(
-        title="LEGEND",
+        title="CHAOTIC",
         description=
         f"**{ctx.guild.name} security settings** <:xD:1158411024903454872>\nPunishments:\n**Anti Bot:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Ban:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Kick:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Prune:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Channel Create/Delete/Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Role Create/Delete/Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Webhook Create:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>n**Anti Emoji Create/Delete/Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Guild Update:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Community Spam:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Integration Create:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Everyone/Here/Role Mention:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Anti Vanity Steal:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>\n**Whitelisted Role:** <@&{wlrole}>\n**Whitelisted Users:** {len(wled)}\n\n**Auto Recovery:** <:jk_no:1158720647199993956><:jk_yes:1158720651557883978>",
         color=0x00FFCA)

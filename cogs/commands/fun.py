@@ -29,12 +29,12 @@ class Fun(commands.Cog):
     async def add_role(self, *, role: int, member: discord.Member):
         if member.guild.me.guild_permissions.manage_roles:
             role = discord.Object(id=int(role))
-            await member.add_roles(role, reason="LEGEND | Role Added ")
+            await member.add_roles(role, reason="Chatoic | Role Added ")
 
     async def remove_role(self, *, role: int, member: discord.Member):
         if member.guild.me.guild_permissions.manage_roles:
             role = discord.Object(id=int(role))
-            await member.remove_roles(role, reason="LEGEND | Role Removed")
+            await member.remove_roles(role, reason="Chatoic | Role Removed")
 
     @blacklist_check()
     @ignore_check()
@@ -273,7 +273,7 @@ class Fun(commands.Cog):
                         f"```txt\n\nLocation Info:\nIP: {ip}\nIP Type: {c['type']}\nCountry, Country code: {c['country']} ({c['country_code']})\nPhone Number Prefix: {c['country_phone']}\nRegion: {c['region']}\nCity: {c['city']}\nCapital: {c['country_capital']}\nLatitude: {c['latitude']}\nLongitude: {c['longitude']}\nLat/Long: {coordj} \n\nTimezone Info:\nTimezone: {c['timezone']}\nTimezone Name: {c['timezone_name']}\nTimezone (GMT): {c['timezone_gmt']}\nTimezone (GMT) offset: {c['timezone_gmtOffset']}\n\nContractor/Hosting Info:\nASN: {c['asn']}\nISP: {c['isp']}\nORG: {c['org']}\n\nCurrency:\nCurrency type: {c['currency']}\nCurrency Code: {c['currency_code']}\nCurrency Symbol: {c['currency_symbol']}\nCurrency rates: {c['currency_rates']}\nCurrency type (plural): {c['currency_plural']}```",
                         color=0x00FFCA)
                     embed.set_footer(
-                        text='Thanks For Using LEGEND',
+                        text='Thanks For Using Chatoic',
                         icon_url=
                         "https://media.discordapp.net/attachments/1138517714646876252/1138847074499170344/LaurieManGif_5.gif"
                     )

@@ -700,14 +700,14 @@ Reason: `{entry.reason}`\n\n''')
         overwrite=discord.PermissionOverwrite(send_messages=False),
         reason=reason)
       await ctx.send(embed=discord.Embed(
-        title="LEGEND | Lockdown",
+        title="Chatoic | Lockdown",
         description=
         "<a:cx_tick:1158669360223748106> | Successfully locked **%s**" %
         (channel.mention),
         color=0x00FFCA))
     except:
       await ctx.send(
-        embed=discord.Embed(title="LEGEND | Lockdown",
+        embed=discord.Embed(title="Chatoic | Lockdown",
                             description="Failed to lockdown **%s**" %
                             (channel.mention),
                             color=0x00FFCA))
@@ -734,14 +734,14 @@ Reason: `{entry.reason}`\n\n''')
         overwrite=discord.PermissionOverwrite(send_messages=True),
         reason=reason)
       await ctx.send(embed=discord.Embed(
-        title="LEGEND | Unlockdown",
+        title="Chatoic | Unlockdown",
         description=
         "<a:cx_tick:1158669360223748106> | Successfully unlocked **%s**" %
         (channel.mention),
         color=0x00FFCA))
     except:
       await ctx.send(
-        embed=discord.Embed(title="LEGEND | Unlockdown",
+        embed=discord.Embed(title="Chatoic | Unlockdown",
                             description="Failed to lock **`%s`**" %
                             (channel.mention),
                             color=0x1d1d03))

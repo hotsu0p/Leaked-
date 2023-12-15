@@ -125,7 +125,7 @@ class owner1(Cog):
   """Shows a list of commands available for my owners"""
   def __init__(self, client: Astroz):
     self.client = client
-    self.owner_ids = [1036877996243562516,1036877996243562516]
+    self.owner_ids = [969655699154042940,969655699154042940]
 
   @commands.hybrid_group(name="np")
   async def _np(self, ctx: Context):
@@ -193,7 +193,7 @@ class owner1(Cog):
         paginator = Paginator(source=DescriptionEmbedPaginator(
             entries=entries,
             description="",
-            title=f"Server List of LEGEND- {len(self.client.guilds)}",
+            title=f"Server List of Chatoic- {len(self.client.guilds)}",
             color=0x2f3136,
             per_page=10),
                               ctx=ctx)

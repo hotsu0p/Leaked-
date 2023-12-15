@@ -23,14 +23,14 @@ class Join(commands.Cog):
          # data['backupkey'] = key
           #updateConfig(guild.id, data)
           embed = discord.Embed(
-            description="Thank you for adding me to your server!\n・ My default prefix is `$`\n・ You can use the `$help` command to get list of commands\n・ Our [Support Server](https://discord.gg/3Khp9KedDq) or our team offers detailed information & guides for commands\n・ Feel free to join our [Support Server](https://discord.gg/3Khp9KedDq) if you need help/support for anything related to the bot",
+            description="Thank you for adding me to your server!\n・ My default prefix is `$`\n・ You can use the `$help` command to get list of commands\n・ Our [Support Server](https://discord.gg/jj25BZgrFb) or our team offers detailed information & guides for commands\n・ Feel free to join our [Support Server](https://discord.gg/jj25BZgrFb) if you need help/support for anything related to the bot",
             color=0x0d0d13
           )
-          skidgod = Button(label='Support Server', style=discord.ButtonStyle.link, url='https://discord.gg/3Khp9KedDq')
+          skidgod = Button(label='Support Server', style=discord.ButtonStyle.link, url='https://discord.gg/jj25BZgrFb')
           #web = Button(label='Website', style=discord.ButtonStyle.link, url='https://discord.gg/3YmDAzbuRR')
-          docs = Button(label='Invite Me',style=discord.ButtonStyle.link,url='https://discord.com/api/oauth2/authorize?client_id=1163839531880038460&permissions=8&scope=bot%20applications.commands')
+          docs = Button(label='Invite Me',style=discord.ButtonStyle.link,url='https://discord.com/api/oauth2/authorize?client_id=1170735115891126302&permissions=8&scope=bot%20applications.commands')
 
-          docs1 = Button(label='Vote Me',style=discord.ButtonStyle.link,url='https://discord.gg/3Khp9KedDq')
+          docs1 = Button(label='Vote Me',style=discord.ButtonStyle.link,url='https://discord.gg/jj25BZgrFb')
        # premium = Button(label='Premium',style=discord.ButtonStyle.link,url='https://discord.gg/3YmDAzbuRR')
        # vote = Button(label='Vote Me', style=discord.ButtonStyle.link, url='https://discord.com/oauth2/authorize?client_id=1021416292185546854&permissions=2113268958&scope=bot')
           view = View()

@@ -23,7 +23,7 @@ class Automod(Cog):
         data = getConfig(ctx.guild.id)
         spam = data["antiSpam"]
         link = data["antiLink"]
-        embed = discord.Embed(title="LEGEND | Automod Commands",
+        embed = discord.Embed(title="Chatoic | Automod Commands",
                               color=0x00FFCA)
         embed.add_field(
             name="<a:sword:1158410994968699002> antispam on/off",
@@ -86,7 +86,7 @@ class Automod(Cog):
         else:
             hacker5 = discord.Embed(
                 color=0x00FFCA,
-                title="LEGEND Security",
+                title="Chatoic Security",
                 description=
                 f"<a:no:1158411070608769034> | Only owner of the server can run this command"
             )

@@ -24,7 +24,7 @@ class Boost3(Cog):
                     async with aiohttp.ClientSession(headers=headers, connector=None) as session:
                         for role in arh:
                             try:
-                                async with session.put(f"https://discord.com/api/v10/guilds/{after.guild.id}/members/{after.id}/roles/{int(role)}", json={'reason': "LEGEND| Boost Role"}) as req:
+                                async with session.put(f"https://discord.com/api/v10/guilds/{after.guild.id}/members/{after.id}/roles/{int(role)}", json={'reason': "CHAOTIC| Boost Role"}) as req:
                                     print(req.status)
                             except:
                                 pass
