@@ -412,7 +412,7 @@ async def main():
     os.system("clear")
     await client.load_extension("cogs")
     await client.load_extension("jishaku")
-    await client.start("MTE3MDczNTExNTg5MTEyNjMwMg.GM0G0w.PqIzkXczklpMv-XxAu4kpCshBxdWK1byxwclY8")
+    await client.start("")
 
 
 if __name__ == "__main__":
